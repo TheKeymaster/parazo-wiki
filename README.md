@@ -1,7 +1,5 @@
 # Parazo-Wiki
 
-<p align="center"><a href="https://github.com/TheKeymaster/parazo-wiki" target="_blank" rel="noopener noreferrer"><img width="128" src="https://raw.githubusercontent.com/thekeymaster/parazo-wiki/master/docs/images/logo.png"></a></p>
-
 Parazo-Wiki is an easy extendable PHP 7.4 - Symfony 5 driven wiki system.
 
 Currently, in development - **Use it at your own risk!**
